@@ -11,7 +11,6 @@ import javax.swing.ImageIcon;
  * Class chứa các thông tin cấu hình chung
  * 
  * @author Luu Thanh Sang
- *
  */
 public class CommonConfig {
 	public static final String CHESS_POSITION_FILE_PATH = "./src/connect_five/chess_positions.txt"; // Đường dẫn của file thế cờ
